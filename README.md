@@ -1,12 +1,12 @@
 
 ![logo](https://github.com/Anupkumarpandey1/Anupkumarpandey1/blob/main/github-header-image(1).png)
 
-<p align='center'><a href='https://linktr.ee/pulkitxm'><img src='./images/banner.gif' height=300></a></p>
+<p align='center'><a href='https://linktr.ee/Anup'><img src='./images/banner.gif' height=300></a></p>
 
 <br>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=ink+free&size=40&pause=1000&width=600&height=90&lines=Hi!+I+am+Anup;I%27m+passionate+in+Web-Dev;Skilled+front-end+dev+with+UI+focus;Active+in+Git%2C+GitHub%2C+open-source.;Modern+UIs%2C+React.js+expertise.;Love+coding+challenges%2C+tech+exploration.;Constant+learner%2C+diverse+language+knowledge.;Up-to-date+with+trends%2C+best+practices.;Connect%2C+contribute%2C+make+an+impact" alt="Typing SVG" /></p>
 <br>
-<a href='https://holopin.io/@pulkitxm'><img src='https://holopin.me/pulkitxm'>
+<a href='https://holopin.io/@Anup'><img src='https://holopin.me/Anup'>
 <br>
 <h1 align="center"><p align="center"><img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" width="160" height="40" /><img src="./wave.gif" alt="Animated GIF" width="40" height="40"  /></p></h1>
 
@@ -15,13 +15,13 @@
 
 <img align="right" alt="Coding" width="400" src="images/programmer.gif">
 
-<p align="center"><img src="https://profile-counter.glitch.me/{pulkitxm}/count.svg" alt="pulkitxm :: Visitor's Count" />
+<p align="center"><img src="https://profile-counter.glitch.me/{Anup}/count.svg" alt="Anup :: Visitor's Count" />
 </p>
 
 <br>
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/pulkitxm?color=236ad3&style=for-the-badge&logo=github&label=Follow" width=130 height=30/>&nbsp; &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=pulkitxm.pulkitxm" width=100 height=30/>
-&nbsp; &nbsp;<img src="https://img.shields.io/github/stars/pulkitxm?label=Stars" alt="stars" width=100 height=30>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Anup?color=236ad3&style=for-the-badge&logo=github&label=Follow" width=130 height=30/>&nbsp; &nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=Anuo.Anup" width=100 height=30/>
+&nbsp; &nbsp;<img src="https://img.shields.io/github/stars/Anup?label=Stars" alt="stars" width=100 height=30>
 
 <br>
 
@@ -34,7 +34,7 @@
 
 <h1 align="center">Hi 👋, I'm Anup Kumar Pandey</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="375" border-radius="10px" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupkumarpandey1&label=Profile%20views&color=0e75b6&style=flat" alt="anupkumarpandey1" /> </p>
 
