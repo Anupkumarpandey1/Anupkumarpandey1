@@ -67,7 +67,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupkumarpandey1&show_icons=true&locale=en" alt="anupkumarpandey1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupkumarpandey1&" alt="anupkumarpandey1" /></p>
-Here are some ideas to get you started:
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=pulkitxm&theme=juicyfresh&no-bg=true" />
+Here are some ideas to get conversation started:
 
 
 - 🔭 I’m currently working on Workout-XPress.
