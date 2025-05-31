@@ -71,7 +71,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupkumarpandey1&" alt="anupkumarpandey1" /></p>
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=pulkitxm&theme=juicyfresh&no-bg=true" />
+
 Here are some ideas to get conversation started:
 
 
