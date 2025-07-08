@@ -15,7 +15,7 @@
 
 <!-- Dynamic Typing Animation with Neon Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=200&lines=👋+Hey+there!+I'm+Anup;🌟+Full-Stack+Developer;💻+React.js+%26+AI+Enthusiast;🔥+Open+Source+Contributor;🎨+UI%2FUX+Design+Lover;🚀+Innovation+%26+Tech+Explorer;⚡+80%2B+WPM+Speed+Demon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=1000&lines=👋+Hey+there!+I'm+Anup+Kumar+Pandey;🌟+Passionate+Full-Stack+Developer;💻+React.js+%26+Modern+Web+Expert;🔥+Open+Source+Enthusiast;🎨+UI%2FUX+Design+Lover;🚀+Always+Learning+%26+Growing!;⚡+80%2B+WPM+Speed+Demon;🌟+AI+%26+ML+Enthusiast;💡+Innovation+%26+Tech+Explorer;🔮+Turning+Ideas+into+Reality" alt="Typing SVG" />
 </div>
 
 <!-- Aesthetic Divider -->
@@ -332,7 +332,17 @@ const anup = {
 </h2>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23073642&textColor=%2306D6A0&aColor=%2306D6A0&borderColor=%2306D6A0&qColor=%23f97316&aColor=%23f97316" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula&bgColor=%23282a36&textColor=%23f8f8f2&aColor=%23bd93f9&codeColor=%23ff79c6&qColor=%238be9fd" alt="Jokes Card" />
+</div>
+
+<!-- Random Dev Meme -->
+<div align="center">
+  <img src="https://random-memer.herokuapp.com/" width="500" alt="Random Dev Meme" />
+</div>
+
+<!-- Programming Joke of the Day -->
+<div align="center">
+  <img src="https://joke-api-strict-cors.herokuapp.com/jokes/programming/random" alt="Programming Joke" />
 </div>
 
 <!-- Random Facts -->
